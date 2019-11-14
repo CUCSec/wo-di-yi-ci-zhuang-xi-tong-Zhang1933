@@ -7,7 +7,9 @@
 在网站上下载，安装VirtualBox。
 
 安装完成
-![virtualbox](/img/1.png)
+
+![virtualbox](/img/1.PNG)
+
 ### 配置虚拟机
 新建一个win10x64系统虚拟机，内存分配4032mb，磁盘空间分配50g，只分了一个c盘。配置完成。
 ### 下载镜像
